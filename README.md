@@ -1,3 +1,3 @@
 # Coursera
 
-## Kya re.. Ye private zone hai saale.
+## Project from bootstrap course.
